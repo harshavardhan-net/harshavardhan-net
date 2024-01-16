@@ -1,5 +1,4 @@
-### Hi there, my name is Harshavardhan Dwarapu. 👋
-- This repository holds my personal website project.
+### Hi there 👋
 - 🌱 I’m currently learning GitHub.
 - 👯 I’m looking to collaborate on training and development.
-- 💬 Ask me about skills.
+- 💬 Ask me about improving on skill set.
