@@ -3,7 +3,7 @@ layout: default
 title: PGP | Harshavardhan Dwarapu
 description: My PGP Public Key
 ---
-### PGP Public Key
+## PGP Public Key
 
 Hi there, below is my pgp public key.
 
@@ -81,11 +81,11 @@ uSEkJdw540GEY4ApAOQzZXhgWdwxefgW
 =J/4u
 -----END PGP PUBLIC KEY BLOCK-----
 
-### What is PGP?
+## What is PGP?
 
 PGP Stands for pretty good privacy. It can be used to encrypt or sign email conversations or files. Please visit the link below to know more about PGP and send me an encrypted email.
 
-<a href="https://www.openpgp.org">What is PGP?<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+<a href="https://www.openpgp.org" target="_blank">What is PGP?<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
               0 48 48">
               <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
               0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
@@ -95,7 +95,7 @@ PGP Stands for pretty good privacy. It can be used to encrypt or sign email conv
               0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
               0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
               2-2v-12c0-0.2 0-0.6-0.2-0.8z"></path>
-              </svg></a> | <a href="https://mailvelope.com/en/help">Encrypt Email With Mailvelope<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+              </svg></a> | <a href="https://mailvelope.com/en/help" target="_blank">Encrypt Email With Mailvelope<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
               0 48 48">
               <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
               0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4

@@ -3,11 +3,11 @@ layout: default
 title: Harshavardhan Dwarapu
 description: My Official Website!
 ---
-### Welcome
+## Welcome
 
 <p>Hi there, thanks for visiting my official website. Please feel free to click the chat icon to start a conversation with me.</p>
 
-### Join Meeting
+## Join Meeting
 
 <p>If you have already scheduled a video meeting with me, you can click on "Join Meeting".</p>
 
@@ -25,13 +25,13 @@ description: My Official Website!
               </svg>
             </a>
 
-### PGP
+## PGP
 
 Here is my pgp public key if you would like to verify or encrypt your communication with me.
 
 Download: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a> | <a href="../pgp/">View Plain Text</a>
 
-### Socail Media Profiles
+## Socail Media Profiles
 
 I'm on LinkedIn and Facebook! You can connect with me by visiting my social links below.
 
