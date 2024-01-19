@@ -1,11 +1,15 @@
 ---
 layout: default
 title: Harshavardhan Dwarapu
-description: Official Harshavardhan Dwarapu website!
+description: My Official Website!
 ---
-## Chat/Meet Online
+### Welcome
 
-<p>Hi there! thanks for visiting this page. Please feel free to click the chat icon to start a conversation. Also, if you have a scheduled video meeting with Harshavardhan Dwarapu, you can click on "Join Meeting".</p>
+<p>Hi there, thanks for visiting my official website. Please feel free to click the chat icon to start a conversation with me.</p>
+
+### Join Meeting
+
+<p>If you have already scheduled a video meeting with me, you can click on "Join Meeting".</p>
 
 <a href="{{ site.meet_url }}" target="_blank">Join Meeting
               <svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
@@ -21,8 +25,36 @@ description: Official Harshavardhan Dwarapu website!
               </svg>
             </a>
 
-## PGP
+### PGP
 
-Here is public key if you would like to encrypt your communication with Harshavardhan Dwarapu.
+Here is my pgp public key if you would like to verify or encrypt your communication with me.
 
-PGP Key: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a>
+Download: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a> | <a href="../pgp/">View Plain Text</a>
+
+### Socail Media Profiles
+
+I'm on LinkedIn and Facebook! You can connect with me by visiting my social links below.
+
+<a href="{{ site.linkedin_url }}" target="_blank">LinkedIn<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+            0 48 48">
+            <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
+            0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
+            0-6 2.6-6 6v22c0 3.4 2.6 6 6 6h22c3.4 0 6-2.6
+            6-6v-12c0-1.2-0.8-2-2-2z"></path>
+            <path d="M43.8 5.2c-0.2-0.4-0.6-0.8-1-1-0.2-0.2-0.6-0.2-0.8-0.2h-12c-1.2
+            0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
+            0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
+            2-2v-12c0-0.2 0-0.6-0.2-0.8z"></path>
+            </svg></a> | <a href="{{ site.facebook_url }}" target="_blank">Facebook<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+          0 48 48">
+          <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
+          0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
+          0-6 2.6-6 6v22c0 3.4 2.6 6 6 6h22c3.4 0 6-2.6
+          6-6v-12c0-1.2-0.8-2-2-2z"></path>
+          <path d="M43.8 5.2c-0.2-0.4-0.6-0.8-1-1-0.2-0.2-0.6-0.2-0.8-0.2h-12c-1.2
+          0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
+          0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
+          2-2v-12c0-0.2 0-0.6-0.2-0.8z"></path>
+          </svg></a><br>
+
+Currently, I am not active on any other social media platforms.

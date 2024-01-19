@@ -1,12 +1,13 @@
 ---
 layout: default
 title: PGP | Harshavardhan Dwarapu
-description: Harshavardhan Dwarapu's PGP Public Key
+description: My PGP Public Key
 ---
-Below is Harshavardhan Dwarapu's PGP Public Key.
+### PGP Public Key
 
-Download PGP Key: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a>
+Hi there, below is my pgp public key.
 
+Download PGP Public Key: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a>
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Mailvelope v5.1.1
@@ -79,3 +80,29 @@ pt2i6TFLr7LCjyT048Kuyw8Er/jDgRVhJ9huNp7YR1q3Fmdj3LON5tE6cQoi
 uSEkJdw540GEY4ApAOQzZXhgWdwxefgW
 =J/4u
 -----END PGP PUBLIC KEY BLOCK-----
+
+### What is PGP?
+
+PGP Stands for pretty good privacy. It can be used to encrypt or sign email conversations or files. Please visit the link below to know more about PGP and send me an encrypted email.
+
+<a href="https://www.openpgp.org">What is PGP?<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+              0 48 48">
+              <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
+              0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
+              0-6 2.6-6 6v22c0 3.4 2.6 6 6 6h22c3.4 0 6-2.6
+              6-6v-12c0-1.2-0.8-2-2-2z"></path>
+              <path d="M43.8 5.2c-0.2-0.4-0.6-0.8-1-1-0.2-0.2-0.6-0.2-0.8-0.2h-12c-1.2
+              0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
+              0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
+              2-2v-12c0-0.2 0-0.6-0.2-0.8z"></path>
+              </svg></a> | <a href="https://mailvelope.com/en/help">Encrypt Email With Mailvelope<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+              0 48 48">
+              <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
+              0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
+              0-6 2.6-6 6v22c0 3.4 2.6 6 6 6h22c3.4 0 6-2.6
+              6-6v-12c0-1.2-0.8-2-2-2z"></path>
+              <path d="M43.8 5.2c-0.2-0.4-0.6-0.8-1-1-0.2-0.2-0.6-0.2-0.8-0.2h-12c-1.2
+              0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
+              0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
+              2-2v-12c0-0.2 0-0.6-0.2-0.8z"></path>
+              </svg></a>
