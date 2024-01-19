@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harshavardhan Dwarapu
-description: My Official Website!
+description: Official Website!
 ---
 ## Welcome
 
