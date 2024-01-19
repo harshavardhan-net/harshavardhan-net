@@ -1,7 +1,11 @@
 ---
 layout: default
+title: Harshavardhan Dwarapu
+description: Official Harshavardhan Dwarapu website!
 ---
-Hi there! thanks for visiting this page. Click the chat icon to start a conversation. Also, You can click "Join Meeting" for a video meeting with Harshavardhan Dwarapu.<br>
+## Chat/Meet Online
+
+<p>Hi there! thanks for visiting this page. Please feel free to click the chat icon to start a conversation. Also, if you have a scheduled video meeting with Harshavardhan Dwarapu, you can click on "Join Meeting".</p>
 
 <a href="{{ site.meet_url }}" target="_blank">Join Meeting
               <svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0

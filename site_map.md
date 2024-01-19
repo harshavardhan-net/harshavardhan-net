@@ -1,9 +1,11 @@
 ---
 layout: default
+title: Site Map
+description: Sitemap for Official Harshavardhan Dwarapu Website
 ---
 
-### <a href="https://www.harshavardhan.net">Home Page</a>
+<a href="../index">Home Page</a>
 
-### <a href="https://www.harshavardhan.net/pgp">PGP</a>
+<a href="../pgp">PGP</a>
 
-### <a href="https://www.harshavardhan.net/site_map">Site Map</a>
+<a href="../site_map">Site Map</a>

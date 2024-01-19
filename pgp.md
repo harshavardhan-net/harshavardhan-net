@@ -1,5 +1,7 @@
 ---
 layout: default
+title: PGP | Harshavardhan Dwarapu
+description: Harshavardhan Dwarapu's PGP Public Key
 ---
 Below is Harshavardhan Dwarapu's PGP Public Key.
 
