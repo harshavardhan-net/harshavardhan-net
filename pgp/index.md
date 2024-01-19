@@ -1,8 +1,9 @@
 ---
 layout: default
+title: PGP | Harshavardhan Dwarapu
 description: PGP Public Key
 ---
-## PGP
+### PGP
 
 Hi there, below is my pgp public key.
 
@@ -80,7 +81,7 @@ uSEkJdw540GEY4ApAOQzZXhgWdwxefgW
 =J/4u
 -----END PGP PUBLIC KEY BLOCK-----
 
-## What is PGP?
+### What is PGP?
 
 PGP Stands for pretty good privacy. It can be used to encrypt or sign email conversations or files. Please visit the link below to know more about PGP and send me an encrypted email.
 

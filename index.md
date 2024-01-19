@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Harshavardhan Dwarapu
-description: Official Website!
+description: Official Harshavardhan Dwarapu Website!
 ---
-## Welcome
+
+### Chat | Join Meeting
 
 <p>Hi there, thanks for visiting my official website. Please feel free to click the chat icon to start a conversation with me.</p>
-
-## Join Meeting
 
 <p>If you have already scheduled a video meeting with me, you can click on "Join Meeting".</p>
 
@@ -25,15 +24,9 @@ description: Official Website!
               </svg>
             </a>
 
-## PGP
+### Social Links
 
-Here is my pgp public key if you would like to verify or encrypt your communication with me.
-
-Download: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a> | <a href="../pgp/">View Plain Text</a>
-
-## Socail Media Profiles
-
-I'm on LinkedIn and Facebook! You can connect with me by visiting my social links below.
+I'm on LinkedIn and Facebook! Below are my social links.
 
 <a href="{{ site.linkedin_url }}" target="_blank">LinkedIn<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
             0 48 48">
@@ -58,3 +51,9 @@ I'm on LinkedIn and Facebook! You can connect with me by visiting my social link
           </svg></a><br>
 
 Currently, I am not active on any other social media platforms.
+
+### PGP
+
+Here is my pgp public key if you would like to verify or encrypt your communication with me.
+
+Download: <a href="pgp/Harshavardhan_Dwarapu_pub.asc">Harshavardhan_Dwarapu_pub.asc</a> | <a href="../pgp/">View Plain Text</a>
