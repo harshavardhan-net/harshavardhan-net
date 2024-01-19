@@ -2,7 +2,7 @@
 layout: default
 description: PGP Public Key
 ---
-## PGP Public Key
+## PGP
 
 Hi there, below is my pgp public key.
 
