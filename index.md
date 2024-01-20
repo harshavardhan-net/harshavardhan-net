@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harshavardhan Dwarapu
-description: Official Harshavardhan Dwarapu Website!
+description: This is my official website.
 ---
 
 ### Chat | Join Meeting
