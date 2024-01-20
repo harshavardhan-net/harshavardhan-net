@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harshavardhan Dwarapu
-description: This is my official website.
+description: Trainer | Technology Enabled Education Innovator
 ---
 
 ### Chat | Join Meeting
