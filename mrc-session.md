@@ -4,7 +4,7 @@ title: MR College Session
 description: Session on "Importance of Soft Skills in Career Building"
 ---
 
-### Importance of Soft Skills in Career Building
+### Session: Importance of Soft Skills in Career Building
 ### Speaker: Harshavardhan Dwarapu
 
 #### Date & Time: January 03, 2026; 11:00 AM to 1:00 PM
