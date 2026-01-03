@@ -13,3 +13,5 @@ description: Session on "Importance of Soft Skills in Career Building"
 #### Venue : MR College, Vizianagaram
 
 **Session Synopsis:** "Importance of Soft Skills in Career Building" is a high-impact session designed to equip graduate students with the essential behavioral competencies required for corporate success. The session provides an accelerated overview of corporate communication (mastering email, telephone, and presentation etiquette), efficient note-making for business meetings, and the core principles of teamwork and leadership. Students will be introduced to time management, alongside practical stress management techniques to build professional resilience. Delivered through a trainee-driven approach that prioritizes audience engagement and rapid-fire case studies, this session ensures students understand how to translate their academic achievements into a professional environment by mastering the "human side" of career building.
+
+**Resources:** <a href="https://docs.google.com/presentation/d/1df3x2igFxSfix6s0VtN9UpWEFhg-zLln/edit?usp=drive_link&ouid=116227449179639552042&rtpof=true&sd=true">**PPT**</a>
